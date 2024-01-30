@@ -5,16 +5,16 @@ I’m coming from a background in industrial design and 10+ years of experience 
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on creative endeavors
 - ⚡ Fun fact: I used to be a glass blowing apprentice!
-
+#
 ### 🔗 Connect with me here:
 
 - Email: ariellecpollock@gmail.com
 - LinkedIn: http://linkedin.com/in/arielle-pollock-designer/
 - Portfolio: https://arielle-pollock.com/
-
+#
 ### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,py,django,discord,express,figma,git,github,ai,nodejs,ps,postgres,react,vscode,xd,bootstrap,codepen,)](https://skillicons.dev)
-
+#
 ### 📊 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ariellepollock&theme=dark&background=000000)](https://git.io/streak-stats)
 
