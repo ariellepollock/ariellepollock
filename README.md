@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ariellepollock
+Hey 👋 I’m Arielle, a product manager and multidisiplinary designer 👩🏻‍💻
 - 👀 I’m interested in the bridge between software and design
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on creative endeavors
