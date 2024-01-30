@@ -15,7 +15,8 @@ I’m coming from a background in industrial design and 10+ years of experience 
 ### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,py,django,discord,express,figma,git,github,ai,nodejs,ps,postgres,react,vscode,xd,bootstrap,codepen,)](https://skillicons.dev)
 
-
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ariellepollock&count_private=true&theme=radical&show_icons=true" />
 
 <!---
 ariellepollock/ariellepollock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
