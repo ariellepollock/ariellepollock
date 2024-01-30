@@ -12,9 +12,9 @@ I’m coming from a background in industrial design and 10+ years of experience 
 - LinkedIn: http://linkedin.com/in/arielle-pollock-designer/
 - Portfolio: https://arielle-pollock.com/
 
-### Tech Stack
+### 💻 Tech Stack
+![image](https://github.com/ariellepollock/ariellepollock/assets/149843908/ef0882ec-9234-4333-8d7e-ed4e333d3dd1)
 
-CSS3 JavaScript HTML5 Python Bootstrap Django Express.js NodeJS React MongoDB Postgres Adobe Illustrator Adobe InDesign Adobe Photoshop Adobe XD Figma Trello
 
 <!---
 ariellepollock/ariellepollock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
