@@ -13,7 +13,7 @@ I’m coming from a background in industrial design and 10+ years of experience 
 - Portfolio: https://arielle-pollock.com/
 
 ### 💻 Tech Stack
-![image](https://github.com/ariellepollock/ariellepollock/assets/149843908/ef0882ec-9234-4333-8d7e-ed4e333d3dd1)
+
 
 
 <!---
