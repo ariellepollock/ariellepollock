@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creative endeavors
 - 📫 How to reach me: ariellecpollock@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to work as a glass blowing apprentice!
+- ⚡ Fun fact: I used to be a glass blowing apprentice!
 
 <!---
 ariellepollock/ariellepollock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
