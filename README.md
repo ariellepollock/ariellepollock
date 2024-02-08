@@ -2,7 +2,7 @@
 I’m coming from a background in industrial design and 10+ years of experience as a hybrid designer and director focusing on advertising, art direction, digital design, and brand identity systems. I want to utilize my multidisciplinary design knowledge to bridge the gap between software engineering and communication design. Chicago-based, but you can often find me sampling other cities.
 
 - 👀 I’m interested in generative ai
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Adobe Premier and After Effects
 - 💞️ I’m looking to collaborate on creative endeavors
 - ⚡ Fun fact: I used to be a glass blowing apprentice!
 #
