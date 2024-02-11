@@ -15,6 +15,7 @@ I’m coming from a background in industrial design and 10+ years of experience 
 ### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,py,django,discord,express,figma,git,github,ai,nodejs,ps,postgres,react,vscode,xd,bootstrap,codepen,)](https://skillicons.dev)
 #
+CSS3 JavaScript HTML5 Markdown Python Vercel Netlify Bootstrap Django DjangoREST Express.js Flask FastAPI jQuery NPM NodeJS React React Router SASS MongoDB Postgres Adobe Illustrator Adobe InDesign Adobe Photoshop Adobe XD Figma Postman Trello
 ### 📊 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ariellepollock&theme=dark&background=000000)](https://git.io/streak-stats)
 
